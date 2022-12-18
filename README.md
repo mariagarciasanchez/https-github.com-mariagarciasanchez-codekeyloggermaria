@@ -2,7 +2,7 @@
 Final Cybersecurity project
 
 If you check the GitHub page, you can see some files that call Keyboard, Mouse, and Powershell code.
-This is an educational proposal so it's just for people who want to learn more about cybersecurity and how to create or run codes for attention 85 follow these steps:
+This is an educational proposal so it's just for people who want to learn more about Cybersecurity and how to create or run codes for Attinity 85 follow these steps:
 
 1. Need to get a card digispark attinity 85.
 2. Download Arduino.
